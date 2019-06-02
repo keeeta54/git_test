@@ -8,4 +8,6 @@ line7
 
 topic-A
 
+topic-c
+
 # git_test
